@@ -1,0 +1,15 @@
+langkah - langkah pengerjaan :
+
+1. Buat halaman user dan admin
+2. Tampilkan data dari database
+3. Buat fungsi tambah data
+4. Buat fungsi hapus data
+5. Buat fungsi ubah data
+6. Buat fungsi live search dengan ajax
+7. Buat fungsi register
+8. Buat fungsi login (Buat session, Buat cookie)
+9. Buat fungsi logout
+10. Upload ke internet
+11. Buat pagination 
+
+

@@ -1,6 +1,6 @@
 <?php 
 
-$db = mysqli_connect("sql211.epizy.com", "epiz_25272702", "admin01arya2003", "epiz_25272702_data_siswa");
+$db = mysqli_connect("localhost", "root", "", "data_siswa");
 
 
 function query($query){
